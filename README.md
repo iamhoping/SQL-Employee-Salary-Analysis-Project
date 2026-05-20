@@ -18,6 +18,8 @@ This project contains SQL practice queries focused on employee salary analysis a
 -MAX()
 -ROUND()
 -Subqueries
+- cte
+- temp table
 -Aliases
 
 ## Example Queries
