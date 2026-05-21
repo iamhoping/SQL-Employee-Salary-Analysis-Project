@@ -1,3 +1,9 @@
+# SQL Portfolio Projects
+## Description
+This repository contains all of my SQL, data analytics, and database projects.  
+It includes portfolio projects focused on data cleaning, data exploration, reporting, and database management using SQL and PostgreSQL.
+
+
 # SQL Data Cleaning Project - Layoffs Dataset
 ### layoffs_data_cleaning.sql  -  layoffs.csv
 ## Description
@@ -30,11 +36,8 @@ The workflow includes removing duplicate records, standardizing inconsistent dat
 - Removed incomplete records with missing layoff data
 - Dropped unnecessary columns after cleaning
 
-# Data Analyst Portfolio Projects
+# Employee Salary SQL Queries - Parks_and_Create_db Datasets
 ### queries-of-parks_and_recreation.sql  -  Parks_and_Create_db.sql
-## Description
-This repository contains all of my SQL, data analytics, and database projects.  
-It includes portfolio projects focused on data cleaning, data exploration, reporting, and database management using SQL and PostgreSQ.
 ## Description
 This project contains SQL queries focused on employee salary analysis.
 ## SQL Concepts Used
@@ -49,3 +52,4 @@ This project contains SQL queries focused on employee salary analysis.
 - events
 - trigger
 - procedure
+- windows function
