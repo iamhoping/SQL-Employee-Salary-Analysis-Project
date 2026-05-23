@@ -1,11 +1,10 @@
 # SQL Portfolio Projects
 ## Description
 This repository contains all of my SQL, data analytics, and database projects.  
-It includes portfolio projects focused on data cleaning, data exploration, reporting, and database management using SQL and PostgreSQL.
-
-
-# SQL Data Cleaning Project - Layoffs Dataset
-### layoffs_data_cleaning.sql  -  layoffs.csv
+It includes portfolio projects focused on data cleaning, data exploration, reporting, and database management using SQL and PostgreSQL
+### File name
+- layoffs.csv
+- layoffs_data_cleaning.sql
 ## Description
 This project focuses on cleaning and preparing a layoffs dataset using SQL.  
 The workflow includes removing duplicate records, standardizing inconsistent data, handling null values, formatting dates, and optimizing the dataset for further analysis.
@@ -23,7 +22,6 @@ The workflow includes removing duplicate records, standardizing inconsistent dat
 - String Functions
 - Date Formatting
 - Data Standardization
-
  ## Data Cleaning Processes
 - Created backup and staging tables
 - Identified duplicate records using ROW_NUMBER()
@@ -35,11 +33,12 @@ The workflow includes removing duplicate records, standardizing inconsistent dat
 - Updated missing industry values using self joins
 - Removed incomplete records with missing layoff data
 - Dropped unnecessary columns after cleaning
-
-# Employee Salary SQL Queries - Parks_and_Create_db Datasets
-### queries-of-parks_and_recreation.sql  -  Parks_and_Create_db.sql
+# Employee Salary SQL - Parks_and_Create_db Datasets
 ## Description
 This project contains SQL queries focused on employee salary analysis.
+### File name
+- queries-of-parks_and_recreation.sql
+- Parks_and_Create_db.sql
 ## SQL Concepts Used
 - SELECT
 - GROUP BY
@@ -53,3 +52,21 @@ This project contains SQL queries focused on employee salary analysis.
 - trigger
 - procedure
 - windows function
+# Restaurant Sales & Customer Behavior Analysis
+## Description
+This project focuses on analyzing restaurant menu and order data using SQL to uncover customer ordering behavior, spending patterns, and menu performance.
+### File name
+- Restaurant_Orders.zip
+- Queries_Restaurant_Orders.sql
+## SQL Concepts Used
+- SQL Concepts Used
+- SELECT statements
+- Aggregate Functions (COUNT, AVG, SUM, MIN, MAX)
+- GROUP BY and ORDER BY
+- Filtering with WHERE and HAVING
+- JOIN operations (LEFT JOIN)
+- Window Functions (MAX() OVER)
+- DISTINCT keyword
+- Subqueries with IN
+- LIMIT clause for Top-N analysis
+- Data exploration and customer behavior analysis
