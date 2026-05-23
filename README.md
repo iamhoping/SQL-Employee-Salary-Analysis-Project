@@ -2,12 +2,13 @@
 ## Description
 This repository contains all of my SQL, data analytics, and database projects.  
 It includes portfolio projects focused on data cleaning, data exploration, reporting, and database management using SQL and PostgreSQL
-### File name
-- layoffs.csv
-- layoffs_data_cleaning.sql
+# Data Cleaning - layoffs
 ## Description
 This project focuses on cleaning and preparing a layoffs dataset using SQL.  
 The workflow includes removing duplicate records, standardizing inconsistent data, handling null values, formatting dates, and optimizing the dataset for further analysis.
+### File name
+- layoffs.csv
+- layoffs_data_cleaning.sql
 ## SQL Concepts Used
 - Data Cleaning
 - Window Functions
@@ -33,7 +34,7 @@ The workflow includes removing duplicate records, standardizing inconsistent dat
 - Updated missing industry values using self joins
 - Removed incomplete records with missing layoff data
 - Dropped unnecessary columns after cleaning
-# Employee Salary SQL - Parks_and_Create_db Datasets
+# Employee Salary Analysis
 ## Description
 This project contains SQL queries focused on employee salary analysis.
 ### File name
